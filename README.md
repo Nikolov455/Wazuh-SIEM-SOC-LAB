@@ -11,3 +11,8 @@
 
 
 <img width="1777" height="762" alt="Screenshot 2026-10-04 162419" src="https://github.com/user-attachments/assets/e75a243e-56ea-46f3-9f65-8a87b8da9970" />
+
+
+
+
+ 3 – Event Identification: The detected authentication event was examined in Wazuh using its unique event/operation ID, allowing the specific activity to be isolated for further investigation and correlation with the brute-force simulation.
